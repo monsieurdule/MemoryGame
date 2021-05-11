@@ -11,5 +11,10 @@ namespace MemoryGame.Views
         {
             InitializeComponent();
         }
+
+        private async void PlayButton_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new GamePlay());
+        }
     }
 }

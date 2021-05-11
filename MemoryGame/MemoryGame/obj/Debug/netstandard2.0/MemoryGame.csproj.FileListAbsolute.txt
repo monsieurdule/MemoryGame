@@ -17,3 +17,4 @@ C:\Dule\Work\MemoryGame\MemoryGame\MemoryGame\obj\Debug\netstandard2.0\XamlC.sta
 C:\Dule\Work\MemoryGame\MemoryGame\MemoryGame\obj\Debug\netstandard2.0\MemoryGame.dll
 C:\Dule\Work\MemoryGame\MemoryGame\MemoryGame\obj\Debug\netstandard2.0\ref\MemoryGame.dll
 C:\Dule\Work\MemoryGame\MemoryGame\MemoryGame\obj\Debug\netstandard2.0\MemoryGame.pdb
+C:\Dule\Work\MemoryGame\MemoryGame\MemoryGame\obj\Debug\netstandard2.0\Views\GamePlay.xaml.g.cs
