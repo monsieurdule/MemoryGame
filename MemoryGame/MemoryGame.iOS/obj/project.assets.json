@@ -998,11 +998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame.iOS\\MemoryGame.iOS.csproj",
+      "projectUniqueName": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame.iOS\\MemoryGame.iOS.csproj",
       "projectName": "MemoryGame.iOS",
-      "projectPath": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame.iOS\\MemoryGame.iOS.csproj",
+      "projectPath": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame.iOS\\MemoryGame.iOS.csproj",
       "packagesPath": "C:\\Users\\dusan\\.nuget\\packages\\",
-      "outputPath": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame.iOS\\obj\\",
+      "outputPath": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1025,8 +1025,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame\\MemoryGame.csproj": {
-              "projectPath": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame\\MemoryGame.csproj"
+            "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame\\MemoryGame.csproj": {
+              "projectPath": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame\\MemoryGame.csproj"
             }
           }
         }

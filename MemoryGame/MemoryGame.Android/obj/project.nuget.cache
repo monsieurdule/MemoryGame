@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eGrkco+2Wh9xgOnetLrYCWwSNzmn4AffX6aDY2dt8u6ZM12L6JBIAJTtvGmctpdee5RRQJ9Oa3xiRDLAbyp/LA==",
+  "dgSpecHash": "kcb2KccghGfUzCVa6tCcHd7DzEsYPzd/mvb18OkIUUehkgmxRIJxxtaBgVgK4PhYL8OLpIMKP/8I0NbvxvvP7g==",
   "success": true,
-  "projectFilePath": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame.Android\\MemoryGame.Android.csproj",
+  "projectFilePath": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame.Android\\MemoryGame.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dusan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

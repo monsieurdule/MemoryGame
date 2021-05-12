@@ -2149,11 +2149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame.Android\\MemoryGame.Android.csproj",
+      "projectUniqueName": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame.Android\\MemoryGame.Android.csproj",
       "projectName": "MemoryGame.Android",
-      "projectPath": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame.Android\\MemoryGame.Android.csproj",
+      "projectPath": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame.Android\\MemoryGame.Android.csproj",
       "packagesPath": "C:\\Users\\dusan\\.nuget\\packages\\",
-      "outputPath": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame.Android\\obj\\",
+      "outputPath": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2176,8 +2176,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame\\MemoryGame.csproj": {
-              "projectPath": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame\\MemoryGame.csproj"
+            "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame\\MemoryGame.csproj": {
+              "projectPath": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame\\MemoryGame.csproj"
             }
           }
         }

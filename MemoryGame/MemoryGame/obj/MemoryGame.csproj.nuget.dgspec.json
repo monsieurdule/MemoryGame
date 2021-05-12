@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame\\MemoryGame.csproj": {}
+    "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame\\MemoryGame.csproj": {}
   },
   "projects": {
-    "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame\\MemoryGame.csproj": {
+    "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame\\MemoryGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame\\MemoryGame.csproj",
+        "projectUniqueName": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame\\MemoryGame.csproj",
         "projectName": "MemoryGame",
-        "projectPath": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame\\MemoryGame.csproj",
+        "projectPath": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame\\MemoryGame.csproj",
         "packagesPath": "C:\\Users\\dusan\\.nuget\\packages\\",
-        "outputPath": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame\\obj\\",
+        "outputPath": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

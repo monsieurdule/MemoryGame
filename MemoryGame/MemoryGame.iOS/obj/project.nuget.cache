@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ZN6rPBMxVB6Co4BFzizKh4S4a4N29LV5WOFz08MVeN8z3B4v5IxzCqEQW4Je8zqbXSudbxBSnNikoGMYDgMVg==",
+  "dgSpecHash": "a0X3wKe5tuu0qM/s1ZyZaZrLiCXXOfsD8bECE288w6f6Fx9H/2QzRjJXpyYZ8X/XhvU5LWguPgdk44L9k4AUBg==",
   "success": true,
-  "projectFilePath": "C:\\Dule\\Work\\MemoryGame\\MemoryGame\\MemoryGame.iOS\\MemoryGame.iOS.csproj",
+  "projectFilePath": "C:\\Dule\\Work\\memorygame\\memorygame\\MemoryGame.iOS\\MemoryGame.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dusan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
